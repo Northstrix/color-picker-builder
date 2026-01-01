@@ -1,6 +1,8 @@
 # Color Picker Builder
 Build your own color picker by tweaking the versatile template.
 
+SourceForge page: https://sourceforge.net/projects/color-picker-builder/
+
 Check it out at: https://color-picker-builder.netlify.app/
 
 # Credit
