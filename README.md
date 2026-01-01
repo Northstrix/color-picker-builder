@@ -5,6 +5,8 @@ SourceForge page: https://sourceforge.net/projects/color-picker-builder/
 
 Check it out at: https://color-picker-builder.netlify.app/
 
+![Alt Preview](https://github.com/Northstrix/color-picker-builder/blob/main/preview.gif?raw=true)
+
 # Credit
 
 The existence of this project (at least in its current form) wouldn’t’ve been possible without the following:
